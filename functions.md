@@ -34,3 +34,11 @@ b.mood    # output: 'Happy'
 b.trap()  # output: Auw!
 b.mood    # output: 'sad'
 ```
+
+# Parameter passing: pass by value / pass by reference
+```python
+a = [0,1]
+b = a
+b.append(2)
+a
+```
