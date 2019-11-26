@@ -3,6 +3,7 @@
 Tijdens:
 - [Les 1 - Types](types.md) (overzicht voor mij, wat ik wil behandelen)
 - [Les 1 - Functions en Methods](functions) overzicht voor mij
+
 Na:
 - [Lists en Dicts](https://python101.pythonlibrary.org/chapter3_lists_dicts.html)
 - [String methods](https://realpython.com/python-strings/)
