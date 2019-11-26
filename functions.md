@@ -10,10 +10,10 @@ type(a) # output: <class 'dict'>
 
 ### Custom functions
 ```python 
->>> def a_function():
-        print("You just created a function!")
->>> def add(a, b):
-        return (a + b)
+def a_function():
+    print("You just created a function!")
+def add(a, b):
+    return (a + b)
 ```
 
 # Classes en Methods
