@@ -9,7 +9,8 @@ Na:
 
 
 # Resources voor nu
-[Snelle introductie Python]()
+[Snelle introductie Python]() Hele goede resource om mee te beginnen.
+
 [Introduction to Python](https://realpython.com/learning-paths/python3-introduction/). Goede in-depth introductie tot python, staat veel in wat ik in het begin zal overslaan.
 
 
