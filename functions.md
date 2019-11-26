@@ -12,6 +12,7 @@ type(a) # output: <class 'dict'>
 ```python 
 def a_function():
     print("You just created a function!")
+    
 def add(a, b):
     return (a + b)
 ```
